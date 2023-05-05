@@ -3,6 +3,10 @@ discord-t0ken-g3n for making a discord token
 
 ##### requirements #####
 
+
+---YOU HAVE TO HAVE PYTHON---
+
+
 1.turn off windows anit-virus (it will count it as a virus because it is a .EXE file)
 
 
